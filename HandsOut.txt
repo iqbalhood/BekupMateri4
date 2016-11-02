@@ -1,0 +1,6 @@
+Catatan Mentoring Andorid 4: 
+
+Library Glide 
+compile 'com.github.bumptech.glide:glide:3.7.0'
+
+

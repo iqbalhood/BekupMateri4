@@ -1,0 +1,23 @@
+
+[[PERBEDAAN]]
+git diff
+
+[[LOG]]
+git log -- oneline
+
+[[RESET]]
+git reset --mixed [nomorlog] --> Hapus Log Sebelumnya Editor Text Tidak Berubah
+git reset --hard  [nomorlog] --> Hapus Log Sebelumnya Editor Text  Berubah
+
+[[BRANCH]]
+git branch --> cek branch 
+git branch chekout -b terbaru --> Pindah Branch ke branch dan buat branch baru
+
+// hapus branch 
+- tidak boleh berada pada branch yang sama 
+git checkout master
+git branch -D terbaru
+git branch -m baru namacabang
+
+-- jika sudah aman dengan perubahan 
+git merge cabangsatu
