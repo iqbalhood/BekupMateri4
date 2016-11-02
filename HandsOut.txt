@@ -3,4 +3,6 @@ Catatan Mentoring Andorid 4:
 Library Glide 
 compile 'com.github.bumptech.glide:glide:3.7.0'
 
+http://stackoverflow.com/questions/26114661/how-to-upload-image-in-base64-on-server
+
 
